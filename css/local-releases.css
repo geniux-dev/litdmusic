@@ -443,6 +443,9 @@ span.products
 		text-transform: uppercase;
 }
 @media screen and (max-width: 992px){
+		button {
+    font-size: 12px;
+}
 	.placeBox .content h3 span {
     font-size: 12px;
     font-weight: 300;
@@ -590,7 +593,9 @@ figure.slider figure figcaption {
     margin-right: 20px;	}
 	}
 	@media screen and (max-width: 640px){
-
+	button {
+    font-size: 11px;
+}
 }
 @media screen and (max-width: 580px) {
 		span.products {

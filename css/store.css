@@ -446,6 +446,9 @@ span.products
     text-transform: unset;
 }
 @media screen and (max-width: 992px){
+		button {
+    font-size: 12px;
+}
 	span.products {
 
 		font-size: 16px;
@@ -524,6 +527,7 @@ footer span {
 
 }
 @media screen and (max-width: 792px){
+
 	span.products {
 	
 		font-size: 15px;
@@ -603,7 +607,9 @@ figure.slider figure figcaption {
     margin-right: 20px;	}
 	}
 	@media screen and (max-width: 640px){
-
+	button {
+    font-size: 11px;
+}
 }
 @media screen and (max-width: 580px) {
 		span.products {

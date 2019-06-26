@@ -328,7 +328,9 @@ min-height: 100px;
 
 
 @media screen and (max-width: 992px){
-
+	button {
+    font-size: 12px;
+}
 			button {
    padding: 20px 30px;
     font-weight: 700;
@@ -455,7 +457,9 @@ figure.slider figure figcaption {
     margin-right: 20px;	}
 	}
 	@media screen and (max-width: 640px){
-
+	button {
+    font-size: 11px;
+}
 }
 @media screen and (max-width: 580px) {
 

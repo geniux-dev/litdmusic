@@ -441,6 +441,9 @@ min-height: 100px;
 
 
 @media screen and (max-width: 992px){
+		button {
+    font-size: 12px;
+}
 	div.content2
 {
 
@@ -504,6 +507,7 @@ footer span {
 
 }
 @media screen and (max-width: 792px){
+
 		div.content2
 {
 
@@ -580,7 +584,9 @@ figure.slider figure figcaption {
     margin-right: 20px;	}
 	}
 	@media screen and (max-width: 640px){
-
+	button {
+    font-size: 11px;
+}
 }
 @media screen and (max-width: 580px) {
 
@@ -657,7 +663,9 @@ h2 {
 	}
 
 @media screen and (max-width: 480px) {
-	
+	button {
+    font-size: 11px;
+}
 	span.LEFTINTHEDARK
 	{
 		display: none;

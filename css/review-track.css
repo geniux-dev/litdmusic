@@ -530,6 +530,9 @@ svg{
     color: #28a745;
 }
 @media screen and (max-width: 992px){
+		button {
+    font-size: 12px;
+}
 	div.content2 {
    
     width: 80%;
@@ -729,7 +732,9 @@ figure.slider figure figcaption {
 		a.margin-left{
 			    margin-left: -17px;
 		}
-
+	button {
+    font-size: 11px;
+}
 }
 @media screen and (max-width: 580px) {
 	a.margin-left {
